@@ -1,11 +1,19 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
+        "course_image": "IIITH-Molecular Interation .jpg", 
         "discussion_topics": {
             "General": {
                 "id": "i4x-IIITH-mi-course-mi"
             }
         }, 
-        "display_name": "Molecular Interactions lab", 
+        "display_name": "Molecular Interactions", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -34,8 +42,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/mi.xml", 
-                "course/mi.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }

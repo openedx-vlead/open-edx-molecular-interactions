@@ -1,43 +1,37 @@
 <problem display_name="Multiple Choice" markdown="1. Bond-angle potential is designed to reproduce the bond geometry in molecules, which is in turn controlled by hybridization of atomic (electronic) orbitals&#10;&#10;(x) True&#10;( ) False&#10;&#10;&#10;2. The bending energy equation is also based on Hooke's law.&#10;&#10;(x) True&#10;( ) False&#10;&#10;&#10;3. This equation estimates the energy associated with vibration about the equilibrium bond angle.&#10;&#10;( ) True&#10;(x) False&#10;&#10;&#10;4. The larger the value of &quot;k&quot;, the less energy is required to deform an angle (or bond) from its equilibrium value.&#10;&#10;(x) True&#10;( ) False&#10;&#10;&#10;5. The &quot;kΘ parameter controls the stiffness of the angle spring.&#10;&#10;( ) True&#10;(x) False&#10;&#10;">
-<p>1. Bond-angle potential is designed to reproduce the bond geometry in molecules, which is in turn controlled by hybridization of atomic (electronic) orbitals</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The bending energy equation is also based on Hooke's law.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. This equation estimates the energy associated with vibration about the equilibrium bond angle.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. The larger the value of "k", the less energy is required to deform an angle (or bond) from its equilibrium value.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. The "kΘ parameter controls the stiffness of the angle spring.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Bond-angle potential is designed to reproduce the bond geometry in molecules, which is in turn controlled by hybridization of atomic (electronic) orbitals</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The bending energy equation is also based on Hooke's law.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. This equation estimates the energy associated with vibration about the equilibrium bond angle.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. The larger the value of "k", the less energy is required to deform an angle (or bond) from its equilibrium value.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. The "kΘ parameter controls the stiffness of the angle spring.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

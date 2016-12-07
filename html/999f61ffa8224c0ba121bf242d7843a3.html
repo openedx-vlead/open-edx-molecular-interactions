@@ -5,3 +5,24 @@ function popup(){
   window.open('http://mi-iiith.virtual-labs.ac.in/suraj/Suraj/bin/1.html', '_blank', 'toolbar=0,location=0,menubar=0');
  }
 // ]]></script>
+
+
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "CCNSB07"; 
+var exp_name = "Many-body forces in a polyatomic molecule"
+var lab_name = "Molecular Interactions Lab"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99713"
+
+var server_url = "http://analytics-api.vlabs.ac.in:4000/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
