@@ -1,0 +1,43 @@
+<problem display_name="Multiple Choice" markdown="     Electrostatic Potential is a nonbonded interaction&#10;     (x) True&#10;     ( ) False&#10;&#10;    The curvature of the internuclear potential energy is related to the spring constant&#10;     (x) True&#10;     ( ) False&#10;&#10;    Electrostatic potential decays rapidly with distance.&#10;     (x) True&#10;     ( ) False&#10;&#10;    If the charge on the partcles is doubled the force is unchanged.&#10;     ( ) True&#10;     (x) False&#10;&#10;    If the distance between the particles is halved,the force is quadrapoled.&#10;     (x) True&#10;     ( ) False&#10;&#10;&#10;">
+<p>     Electrostatic Potential is a nonbonded interaction</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    The curvature of the internuclear potential energy is related to the spring constant</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    Electrostatic potential decays rapidly with distance.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    If the charge on the partcles is doubled the force is unchanged.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    If the distance between the particles is halved,the force is quadrapoled.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

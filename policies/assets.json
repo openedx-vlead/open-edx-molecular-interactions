@@ -1,0 +1,26 @@
+{
+    "IIITH-Molecular_Interation_.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB07", 
+            "name": "IIITH-Molecular_Interation_.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIITH-Molecular Interation .jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB07+Anytime+type@asset+block@IIITH-Molecular_Interation_.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB07", 
+            "thumbnail", 
+            "IIITH-Molecular_Interation_.jpg", 
+            null
+        ]
+    }
+}
